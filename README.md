@@ -3,7 +3,7 @@
 *NAME*: SATISH YADAV
 *INTERN ID*: CT08DH2104
 *DOMAINA*: PYTHON
-*DURATION*: 4 WEEK
+*DURATION*: 8 WEEK
 *MENTOR* : NEELA SANTOSH
 ##
 Here’s a professional and clear **README description** for your GitHub project based on the uploaded script and weather plot:
